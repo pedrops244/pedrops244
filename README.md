@@ -1,7 +1,6 @@
  ##  Olá, Eu sou o Pedro Souza!
 - 🌱 Atualmente estou estudando JavaScript e NodeJS e no ultimo período de Análise e Desenvolvimento de Sistemas.
 - 🔭 Hoje trabalho em uma administração pública e meu desejo é trabalhar como desenvolvedor fullstack logo menos.
-- 📫 Contate-me no telefone +55 (21) 99350-4535 ou no email: pedrops244@hotmail.com
 <div>
 <h2>Languages and Frameworks<h2/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>          
