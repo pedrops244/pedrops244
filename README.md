@@ -1,4 +1,4 @@
- ##  Olá, Eu sou o Pedro Souza!  ||  Hi, I'm Pedro Souza!
+ ##  Olá, Eu sou o Pedro Souza! ||  Hi, I'm Pedro Souza!
 - 🌱 Atualmente estou estudando JavaScript e NodeJS e no ultimo período de Análise e Desenvolvimento de Sistemas.
 - 🌱 I am currently studying JavaScript and NodeJS and in the last period of Systems Analysis and Development
 - 🔭 Hoje trabalho em uma administração pública e atualmente meu estudo é para me tornar um desenvolvedor fullstack.
