@@ -4,7 +4,7 @@
 - 🔭 Hoje trabalho em uma administração pública e atualmente meu estudo é para me tornar um desenvolvedor fullstack.
 - 🔭 Today I work in a public administration and I am currently studying to become a fullstack developer.
 <div>
-<h2>Languages and Frameworks<h2/>
+<h2>Languages and Frameworks <h2/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>          
