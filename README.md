@@ -1,8 +1,6 @@
  ##  Olá, Eu sou o Pedro Souza! ||  Hi, I'm Pedro Souza!
-- 🔭 Oi! Meu nome é Pedro Souza. Moro no Rio de Janeiro, onde fiz Análise e Desenvovimento de Sistemas na Estácio.
 - 🌱 Desenvolvedor com conhecimento em Javascript, NodeJs, SQL, React e VueJs e formado em Análise e Desenvolvimento de Sistemas.
 __________________________________________________________________________________________________________________________________
-- 🔭 Hi! My name is Pedro Souza. I live in Rio de Janeiro, where I did Systems Analysis and Development at Estácio.
 - 🌱 Developer with knowledge of Javascript, NodeJs, SQL, React and VueJs and degree in Systems Analysis and Development.
 <div>
 <h2>Languages and Frameworks <h2/>
