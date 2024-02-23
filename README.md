@@ -1,7 +1,9 @@
  ##  Olá, Eu sou o Pedro Souza! ||  Hi, I'm Pedro Souza!
-- 🌱 Desenvolvedor com conhecimento em Javascript, NodeJs, SQL, React e VueJs e formado em Análise e Desenvolvimento de Sistemas.
-__________________________________________________________________________________________________________________________________
-- 🌱 Developer with knowledge of Javascript, NodeJs, SQL, React and VueJs and degree in Systems Analysis and Development.
+- Olá! Eu sou um desenvolvedor com especialização em **JavaScript** e proficiência em **SQL**, **Node.js**, **Vue.js**, **TypeScript** e **React**. Minha jornada profissional é marcada por uma base sólida em análise e desenvolvimento de sistemas, combinada com experiência prática em análise de dados e gestão de estoque.
+__________________________________________________________________________________
+- I'm a developer specialized in **JavaScript** with proficiency in **SQL**, **Node.js**, **Vue.js**, **TypeScript**, and **React**. My professional journey is characterized by a strong foundation in analysis and development of systems, coupled with practical experience in data analysis and inventory management.
+
+
 <div>
 <h2>Languages and Frameworks <h2/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
