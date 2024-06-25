@@ -1,23 +1,26 @@
  ##  Olá, Eu sou o Pedro Souza! ||  Hi, I'm Pedro Souza!
-- Olá! Eu sou um desenvolvedor com especialização em **JavaScript** e proficiência em **SQL**, **Node.js**, **Vue.js**, **TypeScript** e **React**. Minha jornada profissional é marcada por uma base sólida em análise e desenvolvimento de sistemas, combinada com experiência prática em análise de dados e gestão de estoque.
+- Desenvolvedor de software com especialização em *TypeScript* e proficiência em *Next.js*, *Nest.js*, *Vue.js*, *RPA (UiPath e Python)* e *SQL*, complementada por uma formação sólida em análise e desenvolvimento de sistemas.
+- Com uma base sólida em desenvolvimento web e análise de sistemas, adquiri experiência substancial em análise de dados utilizando ferramentas como Excel para gestão de estoque, durante meus 4 anos de serviço na Força Aérea Brasileira.
 __________________________________________________________________________________
-- I'm a developer specialized in **JavaScript** with proficiency in **SQL**, **Node.js**, **Vue.js**, **TypeScript**, and **React**. My professional journey is characterized by a strong foundation in analysis and development of systems, coupled with practical experience in data analysis and inventory management.
+- Software developer with specialization in *TypeScript* and proficiency in *Next.js*, *Nest.js*, *Vue.js*, *RPA (UiPath and Python)* and *SQL*, complemented by a solid background in systems analysis and development.
+- With a solid foundation in web development and systems analysis, I gained substantial experience in data analysis using tools such as Excel for inventory management, during my 4 years of service in the Brazilian Air Force.
 
 
 <div>
 <h2>Languages and Frameworks <h2/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>          
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>          
 </div>
  
 <div>
 <h2>Studying </h2>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="40" height="40"/>
 </div>
 
 <div>
