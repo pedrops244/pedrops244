@@ -7,7 +7,6 @@ I enjoy working across the entire stack and improving a little every day — eff
 - 📘 Always learning and exploring better ways to build clean and reliable applications.  
 - 🚀 Interested in new technologies and constantly improving my skills as a developer.
 
----
 
 <div>
 <h2>Languages and Frameworks</h2>
@@ -18,7 +17,6 @@ I enjoy working across the entire stack and improving a little every day — eff
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/>
 </div>
 
----
 
 <div>
  <h2>Contacts</h2>
@@ -27,4 +25,3 @@ I enjoy working across the entire stack and improving a little every day — eff
  </a>
 </div>
 
-<br>
